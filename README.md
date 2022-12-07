@@ -10,4 +10,4 @@ To run jelly: `jelly fun day##/day##.jelly "$(python3 -c "print(repr(open(0).rea
 * Day 4: python (golf)
 * Day 5: python
 * Day 6: python (golf)
-* Day 7: python
+* Day 7: python plus my solution for part b golfed with the help of ChatGPT
